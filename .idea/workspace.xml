@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76878747-cf78-44e8-a17b-e3f7999d96dc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/bin/br/com/jdbc/ConnectionPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/bin/br/com/jdbc/InsercaoProduto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/bin/br/com/jdbc/InserirProduto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/bin/br/com/jdbc/InserirProduto2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/bin/br/com/jdbc/Listagem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/bin/br/com/jdbc/RemoverProduto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/bin/br/com/jdbc/modelo/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/hsqldb.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/src/br/com/jdbc/ConnectionPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/src/br/com/jdbc/InsercaoProduto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/src/br/com/jdbc/InserirProduto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/src/br/com/jdbc/InserirProduto2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/src/br/com/jdbc/Listagem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/src/br/com/jdbc/RemoverProduto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdbc/src/br/com/jdbc/modelo/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JS Avançado/parte 2/client/js/app/controllers/NegociacaoController.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JS Avançado/parte 2/client/js/app/controllers/NegociacaoController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/cdc-admin/src/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/../React/cdc-admin/src/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/funcionamento redux/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../React/funcionamento redux/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/funcionamento redux/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../React/funcionamento redux/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/instalura - react 3/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../React/instalura - react 3/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/instalura - react 3/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../React/instalura - react 3/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/instalura - react 3/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../React/instalura - react 3/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/instalura - react 3/src/actions/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../React/instalura - react 3/src/actions/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/instalura - react 3/src/componentes/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/../React/instalura - react 3/src/componentes/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/instalura - react 3/src/componentes/Timeline.js" beforeDir="false" afterPath="$PROJECT_DIR$/../React/instalura - react 3/src/componentes/Timeline.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/instalura - react 3/src/helpers/TimelineApi.js" beforeDir="false" afterPath="$PROJECT_DIR$/../React/instalura - react 3/src/helpers/TimelineApi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/instalura - react 3/src/reducers/timeline.js" beforeDir="false" afterPath="$PROJECT_DIR$/../React/instalura - react 3/src/reducers/timeline.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/instalura - react 3/src/store/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/../React/instalura - react 3/src/store/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/instalura/src/componentes/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/../React/instalura/src/componentes/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/instalura/src/componentes/Timeline.js" beforeDir="false" afterPath="$PROJECT_DIR$/../React/instalura/src/componentes/Timeline.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/loja-virtual/src/br/com/jdbc/TestaCategorias.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/JDBC.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1510" />
+    <option name="y" value="47" />
+    <option name="width" value="1026" />
+    <option name="height" value="546" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JDBC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDBC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JDBC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDBC" type="462c0819:PsiDirectoryNode" />
+              <item name="loja-virtual" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JDBC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDBC" type="462c0819:PsiDirectoryNode" />
+              <item name="loja-virtual" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JDBC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDBC" type="462c0819:PsiDirectoryNode" />
+              <item name="loja-virtual" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="br" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JDBC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDBC" type="462c0819:PsiDirectoryNode" />
+              <item name="loja-virtual" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="br" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JDBC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDBC" type="462c0819:PsiDirectoryNode" />
+              <item name="loja-virtual" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="br" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76878747-cf78-44e8-a17b-e3f7999d96dc" name="Default Changelist" comment="" />
+      <created>1568991051238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568991051238</updated>
+      <workItem from="1568991052369" duration="657000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="657000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/loja-virtual/src/br/com/jdbc/TestaCategorias.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
